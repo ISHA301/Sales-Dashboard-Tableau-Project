@@ -5,7 +5,7 @@ The Sales Dashboard provides a comprehensive and interactive visualization of ke
 The purpose of sales dashboard is to helps in analyzing year-over-year sales performance, understanding sales trends, comparing product subcategory performances, and monitoring weekly fluctuations in sales and profit. The goal is to deliver actionable insights for improving business decision-making.
 
 ## Key Features
-1. KPI Overview
+### 1. KPI Overview
 Purpose: Display a high-level summary of total sales, profits, and quantities for the current year and the previous year.
 
   Metrics Included:
