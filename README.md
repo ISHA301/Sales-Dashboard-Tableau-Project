@@ -13,7 +13,7 @@ Total Sales
 Total Profits
 Total Quantity Sold
 
-2. Sales Trends
+### 2. Sales Trends
 Purpose: Provide a detailed view of monthly sales performance for the current year and previous year.
 
   Key Insights:
@@ -23,7 +23,7 @@ Track month-over-month trends in sales and profit.
 
 Highlight areas of growth or underperformance.
 
-3. Product Subcategory Comparison
+### 3. Product Subcategory Comparison
 Purpose: Compare sales and profit performance across various product subcategories for the current and previous years.
 
 Metrics:
@@ -32,7 +32,7 @@ Sales and profit comparisons.
 
 Identify the top and lowest-performing subcategories.
 
-4. Weekly Trends for Sales & Profit
+### 4. Weekly Trends for Sales & Profit
 Purpose: Present weekly sales and profit data for the current year.
 
 Key Metrics:
