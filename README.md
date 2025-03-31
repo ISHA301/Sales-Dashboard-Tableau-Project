@@ -10,7 +10,9 @@ Purpose: Display a high-level summary of total sales, profits, and quantities fo
 
   Metrics Included:
 Total Sales 
+
 Total Profits
+
 Total Quantity Sold
 
 ### 2. Sales Trends
@@ -41,9 +43,4 @@ Weekly sales and profit.
 
 Weekly averages for sales and profit.
 
-Highlights:
-
-Weeks that perform above or below the average.
-
-Identify any seasonal fluctuations or outliers.
 
