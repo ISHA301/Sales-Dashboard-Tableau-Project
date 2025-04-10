@@ -93,6 +93,12 @@ As an experienced analyst, here are strategic actions based on the insights:
 
 > _Click the image above to view a full-sized version of the dashboard._
 
+## 📥 Download Tableau Workbook
+
+You can download and explore the complete Tableau workbook here:
+
+[📁 Download Sales Dashboard Workbook (.twbx)](https://github.com/ISHA301/Sales-Dashboard-Tableau-Project/raw/main/Sales%20Dashboard.twbx)
+
 
 
 
