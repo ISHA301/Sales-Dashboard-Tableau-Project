@@ -1,64 +1,97 @@
-# Sales-Analysis-Tableau-Project
-The Sales Dashboard provides a comprehensive and interactive visualization of key sales metrics and trends. 
+# 📈 Sales Analysis Tableau Project
 
-## Purpose
-The purpose of sales dashboard is to helps in analyzing year-over-year sales performance, understanding sales trends, comparing product subcategory performances, and monitoring weekly fluctuations in sales and profit. The goal is to deliver actionable insights for improving business decision-making.
+This interactive **Sales Dashboard** offers a comprehensive overview of key sales metrics, helping uncover trends, seasonal patterns, and regional/category-wise performance insights. The project aims to empower strategic decision-making with data-driven recommendations.
 
-## Key Features
-### 1. KPI Overview
-Purpose: Display a high-level summary of total sales, profits, and quantities for the current year and the previous year.
+---
 
-Metrics Included:
-Total Sales 
+## 🎯 Project Objective
 
-Total Profits
+To analyze and visualize sales data across different timeframes, product categories, and regions—highlighting patterns, comparing performance year-over-year (YoY), and generating actionable business insights.
 
-Total Quantity Sold
+---
 
-### 2. Sales Trends
-Purpose: Provide a detailed view of monthly sales performance for the current year and previous year.
+## 🧰 Tools & Technologies
 
-Key Insights:
-Identify the months with the highest and lowest sales.
+- **Tableau Desktop**: For building visual dashboards  
+- **Excel / CSV**: Source data  
+- **GitHub**: Project hosting and documentation
 
-Track month-over-month trends in sales and profit.
+---
 
-Highlight areas of growth or underperformance.
+## 📌 Dashboard Features
 
-### 3. Product Subcategory Comparison
-Purpose: Compare sales and profit performance across various product subcategories for the current and previous years.
+### 🔹 1. KPI Overview (Year-over-Year)
+High-level performance indicators comparing **Total Sales**, **Profit**, and **Quantity Sold** for the current vs. previous year.  
+Includes:
+- Line charts with peak and low points
+- YoY delta visualization
 
-Metrics:
+---
 
-Sales and profit comparisons.
+### 🔹 2. Monthly Sales & Profit Trends
+Visualizes month-wise trends for both years side-by-side.  
+**Key Benefits:**
+- Highlights seasonal performance
+- Detects growth/decline phases
+- Shows profit outliers month-by-month
 
-Identify the top and lowest-performing subcategories.
+---
 
-### 4. Weekly Trends for Sales & Profit
-Purpose: Present weekly sales and profit data for the current year.
+### 🔹 3. Sub-Category Sales & Profit Analysis
+Compare current vs. previous year performance for individual sub-categories.  
+**Dual-axis chart** shows:
+- YoY sales variance
+- YoY profit variance
 
-Key Metrics:
+---
 
-Weekly sales and profit.
+### 🔹 4. Weekly Performance Tracker
+Tracks weekly **Sales and Profit** for the current year.  
+**Includes:**
+- Weekly average lines
+- Zones above/below average
+- Identifies strong and weak sales periods
 
-Weekly averages for sales and profit.
+---
 
-## Findings
-- Sales peaked in November this year and December last year, highlighting strong Q4 seasonality.
-- Profit peaked unusually in February this year, unlike last year’s peak in November–December.
-- Quantity sold was highest during November and December, following seasonal trends.
-- Copiers had the highest profit with a 20% YoY sales increase; Phones led in total sales volume.
-- Technology was the most profitable category, while Office Supplies had the lowest margins.
-- Weekly sales exceeded the $14K average from week 32 onwards, showing strong late-year growth.
-- Copiers were most profitable in the East and West, while Phones led in Central and South.
-- Average weekly profit remained at $2K, while average sales increased by $2K YoY.
+## 🔍 Key Insights
 
- ## Recommendations
-  Based on the findings, here are some recommendations:-
-  - Launch targeted marketing and promotional campaigns starting in October to maximize seasonal spikes in November and December.
-  - Conduct pricing and cost analysis for Office Supplies to improve profitability or consider bundling with high-performing products.
-  - Allocate more marketing budget and R&D investment toward the Technology category to sustain high profit margins.
-  - Tailor sales strategies by region—emphasize Copiers in East/West and Phones in Central/South for maximum impact.
+- **Seasonal Peak:** Sales peaked in **November** this year, **December** last year—indicating consistent Q4 strength.
+- **Unusual Profit Peak:** Profit peaked in **February** this year, contrasting with last year’s Nov–Dec peak.
+- **YoY Growth:** Copiers led with the **highest profit** and **20% increase** in sales; Phones had **highest sales volume**.
+- **Top Category:** **Technology** had the highest overall profits; **Office Supplies** had the lowest.
+- **Weekly Surge:** Sales exceeded **$14K average** from **Week 32** onward, showing late-year momentum.
+- **Regional Trends:** Copiers performed best in **East/West**, while Phones led in **Central/South**.
+- **Efficiency Boost:** While average weekly **profit remained $2K**, average **sales grew by $2K YoY**.
+
+---
+
+## ✅ Recommendations
+
+As an experienced analyst, here are strategic actions based on the insights:
+
+1. **Capitalize on Q4 Demand:**  
+   Launch campaigns in **October** to leverage strong Nov–Dec sales trends.
+
+2. **Boost Q1 Profit Potential:**  
+   Study factors driving **February profit peak** and replicate tactics in early-year strategies.
+
+3. **Product Strategy Optimization:**  
+   Increase focus on **Copiers and Phones** in their dominant regions for higher ROI.
+
+4. **Improve Office Supplies Margin:**  
+   Consider **bundling, repricing, or cost optimization** to improve profit performance.
+
+5. **Tech Category Investment:**  
+   Reinvest in **Technology** products—strong margin contributors with high strategic value.
+
+---
+
+## 📊 Tableau Dashboard Snapshot
+
+![Tableau Dashboard](https://github.com/ISHA301/Sales-Dashboard-Tableau-Project/blob/main/Tableau%20Sales%20Dashboard.png?raw=true)
+
+> _Click the image above to view a full-sized version of the dashboard._
 
 
 
