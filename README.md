@@ -68,7 +68,7 @@ Tracks weekly **Sales and Profit** for the current year.
 
 ## ✅ Recommendations
 
-As an experienced analyst, here are strategic actions based on the insights:
+Here are strategic actions based on the insights:
 
 1. **Capitalize on Q4 Demand:**  
    Launch campaigns in **October** to leverage strong Nov–Dec sales trends.
