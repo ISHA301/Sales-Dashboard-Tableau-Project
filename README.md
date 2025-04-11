@@ -20,7 +20,7 @@ To analyze and visualize sales data across different timeframes, product categor
 
 ## 📌 Dashboard Features
 
-### 🔹 1. KPI Overview (Year-over-Year)
+### 🔹  KPI Overview (Year-over-Year)
 High-level performance indicators comparing **Total Sales**, **Profit**, and **Quantity Sold** for the current vs. previous year.  
 Includes:
 - Line charts with peak and low points
@@ -28,7 +28,7 @@ Includes:
 
 ---
 
-### 🔹 2. Monthly Sales & Profit Trends
+### 🔹  Monthly Sales & Profit Trends
 Visualizes month-wise trends for both years side-by-side.  
 **Key Benefits:**
 - Highlights seasonal performance
@@ -37,7 +37,7 @@ Visualizes month-wise trends for both years side-by-side.
 
 ---
 
-### 🔹 3. Sub-Category Sales & Profit Analysis
+### 🔹  Sub-Category Sales & Profit Analysis
 Compare current vs. previous year performance for individual sub-categories.  
 **Dual-axis chart** shows:
 - YoY sales variance
@@ -45,7 +45,7 @@ Compare current vs. previous year performance for individual sub-categories.
 
 ---
 
-### 🔹 4. Weekly Performance Tracker
+### 🔹  Weekly Performance Tracker
 Tracks weekly **Sales and Profit** for the current year.  
 **Includes:**
 - Weekly average lines
